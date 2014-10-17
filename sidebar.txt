@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mim:home|Door43 (mim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mim|d43-mim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mim/archive/master.zip|d43-mim.zip]]
+
+**Recent Changes**
+{{changes>ns = mim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mim|Ethnologue data]]
+
